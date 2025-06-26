@@ -16,7 +16,7 @@ File Structure:
 
 How to Run:
 1. Clone the repository:
-   git clone <REPO_URL>
+   `git clone https://github.com/MRizki28/btc-wallet.git`
 
 2. Navigate into the project folder:
    cd project-folder-name
